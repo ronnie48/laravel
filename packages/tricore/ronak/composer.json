@@ -1,0 +1,19 @@
+{
+    "name": "tricore/ronak",
+    "description": "my first laravel package",
+    "type": "project",
+    "keywords": ["log","logging"],
+    "homepage": "https://github.com/ronnie48/laravel",
+    "require-dev": {
+        "#": "1.0"
+    },
+    "license": "no",
+    "authors": [
+        {
+            "name": "Ronak Limbachiya",
+            "email": "ronaklimbachiya@tricoreitsolutions.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
